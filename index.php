@@ -37,23 +37,8 @@
                     	This site should help you gain a better insight on what Java is and how to become a better programming with some simple tips!</div>
         <a href="https://www.edureka.co/blog/what-is-java/">What is Java?</a>
 
-
-
-        <main>
-            <img> 
-
         </main>
 
     </body> 
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
-        <footer>
-        <hr>
-        Sanchez Incorporated. 2020&copy;
-        </footer>
-        <!-- closing footer -->
-        
-    </body>
-    <!-- closing body -->
 
 </html>
