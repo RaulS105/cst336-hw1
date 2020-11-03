@@ -24,7 +24,7 @@
 
         <hr />
         <nav>
-            <a href="index.html"> Home </a>
+            <a href="index.php"> Home </a>
             <a href="history.html"> History </a>
             <a href="usage.html"> Important Usage </a>
             <a href="tutorial.html"> Tips and Tricks </a>
