@@ -53,12 +53,6 @@ p.b
 	text-align: center;
 
 }
-footer{
-	background-image: linear-gradient(to left, violet, indigo, blue, green,yellow, pink, orange);
-	-webkit-background-clip:text;
-	-webkit-text-fill-color: transparent;
-
-}
 img.a
 {
 	display: block;
